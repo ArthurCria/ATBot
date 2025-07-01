@@ -33,3 +33,4 @@ if charada == "abacaxi" or charada == "Abacaxi" or charada == "ABACAXI":
     print(f"Muito bem {nome}! Você acertou!")
 else:
     print("Você errou, a resposta era abacaxi")
+print("Obrigado por conversar comigo!")
